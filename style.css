@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background-image: url("/images/es.jpg");
+}
+
+.main_title {
+    text-align: center;
+    color: darkgreen;
+    font-style: italic;
+}
+
+#subtitle {
+    color: cornflowerblue;
+    font-style: oblique;
+}
+
+h2.instructions {
+    color: saddlebrown;
+    font-style: oblique;
+}
+
+ul {
+    color: darkgoldenrod;
+}
+
+ol {
+    color: darkblue;
+}
+
+.bottom_page {
+    background-color: pink;
+}
